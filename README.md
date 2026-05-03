@@ -449,3 +449,9 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Daniel Stefanovic](http://twitter.com/danistefanovic) has waived all copyright and related or neighboring rights to this work.
+
+## Related links
+
+- [MeetKai](https://meetkai.xyz) — the operator layer behind Kai CMO workflows.
+- [KaiCalls](https://kaicalls.com) — AI voice agents for small-business phone answering and lead capture.
+- [Connor Gallic](https://connorgallic.com) — founder building Kai, KaiCalls, and AI automation systems.
